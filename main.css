@@ -1,0 +1,12 @@
+.wrapper{
+  max-width:350px;
+}
+
+input{
+  width:70%;
+  text-align:right;
+}
+
+button{
+  width:23%;
+}
